@@ -1,0 +1,6 @@
+// Write code below 💖
+
+let saludar="hola";
+const hambre=true;
+let dime_nombre= null;
+let valor_introducir=undefined;
