@@ -1,10 +1,10 @@
 // Write code below 💖
  let hora = Math.random()*100;
- const dia = 1
+ const dia = 1;
  if (hora<12)
  {
-    console.log("“Good morning 🌞”" +hora+"del dia "+dia)
+    console.log("“Good morning 🌞”" +hora+"del dia "+dia);
  }else
  {
-  console.log("Good afternoon ☁️" +dia)   
+  console.log("Good afternoon ☁️" +dia);
  }
