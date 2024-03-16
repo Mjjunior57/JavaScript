@@ -1,0 +1,3 @@
+let Fahrenheit = 2.99
+let Celsius = (Fahrenheit-32)/1.8
+console.log(Celsius)     // Output: 0.796
