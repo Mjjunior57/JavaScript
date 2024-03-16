@@ -1,6 +1,6 @@
 let hora = Math.random()*10;
- const dia = 1
+ const dia = 1;
  if (hora<12)
  {
-    console.log("Good Morning People aon " +hora+"del dia "+dia)
+    console.log("Good Morning People aon " +hora+"del dia "+dia);
  }
