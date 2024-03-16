@@ -3,12 +3,12 @@ for (let i = 0; i<=50;i++)
 {
   if (i%2===1)
   {
-    console.log("Numero impar Vamos a continuar")
+    console.log("Numero impar Vamos a continuar");
     continue;
   }else if(i===42)
   {
-    console.log("Procedemos a romper el bucle el numero es el elegido === " +i)
+    console.log("Procedemos a romper el bucle el numero es el elegido === " +i);
     break;
   }
-  console.log(""+i)
+  console.log(""+i);
 }
