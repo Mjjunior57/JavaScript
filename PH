@@ -1,0 +1,11 @@
+// Write code below 💖
+
+let ph = Math.random()*100;
+
+if (ph > 7) {
+  console.log("Basic");
+} else if (ph < 7) {
+  console.log("Basic");
+} else {
+  console.log("“Neutral”");
+}
