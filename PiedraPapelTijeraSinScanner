@@ -1,12 +1,12 @@
 // Write code below 💖
-console.log("Bienvenido al juego de piedra papel o tijera")
-console.log("Jugara el humano y una maquina")
-console.log("Player empiezas tu ")
-let player=1
-let maquina=3
-const papel =1
-const piedra= 2
-const tijeras =3
+console.log("Bienvenido al juego de piedra papel o tijera");
+console.log("Jugara el humano y una maquina");
+console.log("Player empiezas tu ");
+let player=1;
+let maquina=3;
+const papel =1;
+const piedra= 2;
+const tijeras =3;
 if (player===1 && maquina===2 || player===2 && maquina===3 &&  player ===3 && maquina===1) {
   console.log("The player won!");
 }else {
