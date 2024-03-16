@@ -1,0 +1,8 @@
+let yuan=560
+let yen=2455
+let won = 3280
+let valor_total = yuan+yen+won
+console.log("What do you have left in yuan? "+yuan);
+console.log("What do you have left in yen? "+yen);
+console.log("What do you have left in won? "+won);
+console.log("El valor total es "+valor_total);
