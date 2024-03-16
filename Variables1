@@ -1,0 +1,9 @@
+/*
+Mostramos las variables por consola
+*/
+let nombre="Pepe";
+const DNI="4782492797194792";
+const pasaporte="437024712";
+let edad = 15;
+let  experiencia = "50 px";
+console.log(nombre,DNI,pasaporte,edad,experiencia); 
