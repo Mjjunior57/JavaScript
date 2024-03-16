@@ -1,0 +1,11 @@
+// Write code below 💖
+/*
+Createy a Belgian mathematician in the 1850s and it's used by health and nutrition professionals to estimate human body fat in certain populations
+*/
+let mass =1
+const height=9
+let valor_peso=height**height
+bmi=mass/valor_peso
+console.log(bmi);
+
+
